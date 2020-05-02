@@ -1,0 +1,13 @@
+.spinner {
+    position: absolute;
+    left: 50%;
+    top: calc(50% - 50px);
+    z-index: 8;
+}
+
+.custom-select {
+    border-radius: 0!important;
+}
+.custom-select:focus {
+    box-shadow: none!important;
+}
